@@ -6,3 +6,6 @@ Leaflet thematic polygon map (choropleth), from GeoJson data, with info windows 
 
 ## Create your own
 See tutorial in *Leaflet Templates* section of **Hands-On Data Visualization**  https://HandsOnDataViz.org
+
+# Live link
+https://mariaescribano.github.io/leaflet-map-polygon-click/
